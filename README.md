@@ -1,4 +1,4 @@
-# BulkVideoTrimmer 🎞️​✂️​ 
+# FFEMeasy 🎞️​✂️​ 
 [![Actions](https://github.com/luizfern12/BulkVideoTrimmer/actions/workflows/main.yml/badge.svg)](https://github.com/luizfern12/BulkVideoTrimmer/actions/workflows/main.yml)
 
 BulkVideoTrimmer is a quick and dirty software for trimming and compressing video files made in Unity for Windows and Linux. 
@@ -9,6 +9,7 @@ PS: I'm open to PRs and sugestions, just don't expect me to port the app to anot
 
 ## Building
 1 - Install Unity 6000.0.46f1 and Git
+
 2 - Build it the same way as any other Unity Project
 
 ## Thirdparty software
