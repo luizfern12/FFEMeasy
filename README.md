@@ -3,6 +3,8 @@ BulkVideoTrimmer is a quick and dirty software for trimming and compressing vide
 
 This software is being made as a utility for me first, please don't question my choices. I'm a noob and don't have a lot of time to build something super polished.
 
+PS: I'm open to PRs and sugestions, just don't expect me to port the app to another framework like Avalonia, Flutter, etc or use another ffmpeg lib.
+
 ## Building
 Install Unity 6000.0.46f1 and well... build it the same way as any other unity project
 
