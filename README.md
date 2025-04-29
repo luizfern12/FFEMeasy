@@ -8,7 +8,8 @@ This software is being made as a utility for me first, please don't question my 
 PS: I'm open to PRs and sugestions, just don't expect me to port the app to another framework like Avalonia, Flutter, etc or use another ffmpeg lib.
 
 ## Building
-Install Unity 6000.0.46f1 and well... build it the same way as any other unity project
+1 - Install Unity 6000.0.46f1 and Git
+2 - Build it the same way as any other Unity Project
 
 ## Thirdparty software
 - Unity Engine (https://unity.com)
