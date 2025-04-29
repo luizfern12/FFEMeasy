@@ -1,7 +1,7 @@
 # BulkVideoTrimmer 🎞️​✂️​ 
 [![Actions](https://github.com/luizfern12/BulkVideoTrimmer/actions/workflows/main.yml/badge.svg)](https://github.com/luizfern12/BulkVideoTrimmer/actions/workflows/main.yml)
 
-BulkVideoTrimmer is a quick and dirty software for trimming and compressing video files made in Unity for Windows, macOS and Linux. 
+BulkVideoTrimmer is a quick and dirty software for trimming and compressing video files made in Unity for Windows and Linux. 
 
 This software is being made as a utility for me first, please don't question my choices. I'm a noob and don't have a lot of time to build something super polished.
 
